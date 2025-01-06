@@ -1,6 +1,6 @@
 # DNS Resolution Process
 
-![DNS Resolution Process](assets\DNSResolutionProcess.png)
+![DNS Resolution Process](/assets/DNSResolutionProcess.png)
 
 This figure illustrates the step-by-step DNS resolution process, showing how a stub resolver interacts with a recursive DNS resolver and how the recursive resolver queries the DNS hierarchy to resolve a domain name.
 
